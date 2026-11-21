@@ -40,12 +40,20 @@ Hello! About a year ago I was trying to recreate the engine and make a joke fan 
 * Press Z to interact.
 * Press X to cancel. (won't do anything)
 
+## Screenshots
+![Screenshot](https://github.com/JoeOnACob/Journey-To-Defeat-K.Man-OLD-ROBLOX-VERSION-/blob/main/Screenshot%202026-11-18%20184121.png)
+![Screenshot](https://github.com/JoeOnACob/Journey-To-Defeat-K.Man-OLD-ROBLOX-VERSION-/blob/main/Screenshot%202026-11-18%20184223.png)
+![Screenshot](https://github.com/JoeOnACob/Journey-To-Defeat-K.Man-OLD-ROBLOX-VERSION-/blob/main/Screenshot%202026-11-18%20184240.png)
+![Screenshot](https://github.com/JoeOnACob/Journey-To-Defeat-K.Man-OLD-ROBLOX-VERSION-/blob/main/Screenshot%202026-11-18%20184415.png)
+![Screenshot](https://github.com/JoeOnACob/Journey-To-Defeat-K.Man-OLD-ROBLOX-VERSION-/blob/main/Screenshot%202026-11-18%20184523.png)
+![Screenshot](https://github.com/JoeOnACob/Journey-To-Defeat-K.Man-OLD-ROBLOX-VERSION-/blob/main/Screenshot%202026-11-18%20184536.png)
+
 So, here's what the game has in store. Feel free to give some feedback as well!
 
 
 > Also please excuse the horrible 2025 humor present in it 😭.
 
-[Click Me to Download](https://github.com/JoeOnACob/Journey-To-Defeat-K.Man-OLD-ROBLOX-VERSION-/blob/main/JTDKM.rbxl)
+[Download](https://github.com/JoeOnACob/Journey-To-Defeat-K.Man-OLD-ROBLOX-VERSION-/blob/main/JTDKM.rbxl)
 
 
 If there are some features I've missed please let me know.
