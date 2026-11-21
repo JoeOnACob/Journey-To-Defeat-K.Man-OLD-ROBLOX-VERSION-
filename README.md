@@ -25,7 +25,7 @@ Hello! About a year ago I was trying to recreate the engine and make a joke fan 
 * The "Run" function doesn't work.
 * The "Defend" function doesn't work.
 * Keyboard button X doesn't work.
-* Some audio isn't present (non-existent).
+* Some audio isn't present (Especially the music, just remember its at 120 BPM).
 * ONLY PC SUPPORT.
 > [!NOTE]
 > ## **Declarations**:
