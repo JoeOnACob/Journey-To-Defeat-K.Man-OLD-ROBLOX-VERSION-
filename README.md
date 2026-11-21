@@ -27,13 +27,12 @@ Hello! About a year ago I was trying to recreate the engine and make a joke fan 
 * Keyboard button X doesn't work.
 * Some audio isn't present (non-existent).
 * ONLY PC SUPPORT.
-
-## **Declarations**:
-
-* Some assets (mainly sprite sheets) are righted to Shigesato Itoi, Nintendo, EARTHBOUND™, and the MOTHER® franchise.
-* This experience will not profit in any way and is not intended to violate the rights of the copyright owner.
-* This experience is an unfinished MOTHER® fan game project.
-* This experience is open-sourced and will not be worked on anymore.
+> [!NOTE]
+> ## **Declarations**:
+> * Some assets (mainly sprite sheets) are righted to Shigesato Itoi, Nintendo, EARTHBOUND™, and the MOTHER® franchise.
+> * This experience will not profit in any way and is not intended to violate the rights of the copyright owner.
+> * This experience is an unfinished MOTHER® fan game project.
+> * This experience is open-sourced and will not be worked on anymore.
 
 ## HOW TO INTERACT
 * Use the arrow keys (←↓↑→) to select.
